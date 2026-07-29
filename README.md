@@ -184,11 +184,9 @@ SOC-Home-Lab/
 │   ├── Notes
 │   ├── SPL-Queries
 │   
-├── 05_Attack-Simulation
-├── 06_Detection-Rules
-├── 07_Threat-Hunting
-├── 08_Incident-Reports
-├── 09_MITRE-ATTACK
+├── 05_Detection-Rules
+├── 06_MITRE-ATTACK
+├── 07_Incident-Reports
 └── README.md
 ```
 
