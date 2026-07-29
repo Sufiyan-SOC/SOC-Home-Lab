@@ -1,4 +1,4 @@
-# Day 04 - Windows 11 Enterprise Client Deployment
+# Day 04 - Windows 11 Client's Deployment
 
 ## Overview
 
@@ -8,7 +8,7 @@ This phase focused on deploying a Windows 11 Enterprise workstation and integrat
 
 ## Objective
 
-- Deploy a Windows 11 Enterprise virtual machine.
+- Deploy a Windows 11 virtual machine.
 - Configure network settings for domain communication.
 - Join the client to the Active Directory domain.
 - Validate successful domain authentication.
@@ -19,7 +19,7 @@ This phase focused on deploying a Windows 11 Enterprise workstation and integrat
 
 | Component | Value |
 |-----------|-------|
-| Operating System | Windows 11 Enterprise |
+| Operating System | Windows 11 |
 | Hostname | CLIENT1 |
 | Domain | corp.local |
 | Network | Internal Network |
@@ -29,7 +29,7 @@ This phase focused on deploying a Windows 11 Enterprise workstation and integrat
 
 ## Tasks Performed
 
-- Created a Windows 11 Enterprise virtual machine in VirtualBox.
+- Created a Windows 11 virtual machine in VirtualBox.
 - Installed the Windows 11 operating system.
 - Configured the client to use the Internal Network.
 - Verified IP configuration and DNS settings.
@@ -52,13 +52,13 @@ The following checks confirmed a successful deployment:
 
 ## Result
 
-The Windows 11 Enterprise workstation was successfully integrated into the Active Directory environment and is now functioning as a managed domain endpoint within the Enterprise SOC Lab.
+The Windows 11 workstation was successfully integrated into the Active Directory environment and is now functioning as a managed domain endpoint within the Enterprise SOC Lab.
 
 ---
 
 ## Skills Demonstrated
 
-- Windows 11 Enterprise Deployment
+- Windows 11 Deployment
 - Active Directory Domain Join
 - Windows Network Configuration
 - Domain Authentication
