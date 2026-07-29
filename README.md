@@ -180,11 +180,10 @@ SOC-Home-Lab/
 ├── 03_Screenshots
 ├── 04_Splunk
 │   ├── Alerts
-│   ├── Dashboards
-│   ├── Lookups
+│   ├── Deshboard 
 │   ├── Notes
 │   ├── SPL-Queries
-│   └── Saved
+│   
 ├── 05_Attack-Simulation
 ├── 06_Detection-Rules
 ├── 07_Threat-Hunting
