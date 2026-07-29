@@ -1,4 +1,4 @@
-# Day 01 – Enterprise SOC Lab Planning & Environment Design
+# Day 01 – SOC Home Lab Planning & Environment Design
 
 ## Objective
 
@@ -32,7 +32,7 @@ The lab environment consists of the following systems:
 # Initial Lab Architecture
 
 ```text
-                   Enterprise SOC Lab
+                     SOC Lab
 
                      Internet
                         │
