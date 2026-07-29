@@ -1,14 +1,14 @@
-# Enterprise SOC Lab Architecture
+#SOC Home Lab Architecture
 
 ## Purpose
 
-The Enterprise SOC Lab is designed to simulate a real-world enterprise environment for Security Operations Center (SOC) operations. The lab provides hands-on experience in Windows infrastructure administration, centralized log management, attack simulation, security monitoring, threat hunting, detection engineering, and incident investigation using enterprise security tools.
+The SOC Home Lab is designed to simulate a real-world enterprise environment for Security Operations Center (SOC) operations. The lab provides hands-on experience in Windows infrastructure administration, centralized log management, attack simulation, security monitoring, threat hunting, detection engineering, and incident investigation using enterprise security tools.
 
 The objective is to understand how security events are generated, collected, analyzed, detected, and investigated across an Active Directory environment.
 
 ---
 
-# Enterprise Environment
+# Environment
 
 The lab consists of four interconnected systems that simulate a small enterprise network.
 
@@ -46,7 +46,7 @@ The lab consists of four interconnected systems that simulate a small enterprise
 
 ---
 
-## Windows 11 Enterprise (CLIENT1)
+## Windows 11  (CLIENT1)
 
 ### Role
 
@@ -125,7 +125,7 @@ Windows Server (DC01)
 
 ↓
 
-Enterprise Internal Network
+ Internal Network
 
 ↓
 
@@ -217,10 +217,10 @@ The current lab collects logs from:
 
 # Architecture Highlights
 
-- Enterprise Active Directory Infrastructure
+- Active Directory Infrastructure
 - Centralized Log Collection using Splunk Enterprise
 - Domain Joined Windows Endpoint
-- Enterprise DNS & DHCP Services
+- DNS & DHCP Services
 - Sysmon Enhanced Logging
 - Splunk Universal Forwarder
 - Enterprise Attack Simulation
@@ -237,7 +237,7 @@ The current lab collects logs from:
 - Active Directory Administration
 - Windows Server Administration
 - Windows Endpoint Monitoring
-- Enterprise Network Architecture
+- Network Architecture
 - Log Management
 - SIEM Operations
 - SPL Query Development
