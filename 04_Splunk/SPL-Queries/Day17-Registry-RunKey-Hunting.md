@@ -1,4 +1,4 @@
-# Registry Run Key Hunting Queries
+# Registry Run Key Queries
 
 ## 1. Detect Registry Value Set Events
 
