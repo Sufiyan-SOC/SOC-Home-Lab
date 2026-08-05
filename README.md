@@ -135,40 +135,6 @@ Each detection includes:
 
 ---
 
-# 🔄 SOC Investigation Workflow
-
-```text
-Attack Simulation
-        │
-        ▼
-Windows Security Logs / Sysmon
-        │
-        ▼
-Splunk Log Collection
-        │
-        ▼
-Detection Rule (SPL)
-        │
-        ▼
-SIEM Alert
-        │
-        ▼
-Alert Triage
-        │
-        ▼
-Investigation
-        │
-        ▼
-MITRE ATT&CK Mapping
-        │
-        ▼
-Dashboard Visualization
-        │
-        ▼
-Incident Report
-```
-
----
 
 # 📂 Repository Structure
 
